@@ -94,7 +94,7 @@ Sou **Assistente de Auditoria na PharmaScience** e estudante do **4º período d
 
 <img src="https://streak-stats.demolab.com?user=ericksouzaaraujo48-stack&theme=github-dark-blue&hide_border=true&ring=F2C811&fire=ff8a00&currStreakLabel=F2C811" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=github-compact&hide_border=true&color=F2C811&line=ff8a00&point=ffffff&bg_color=0d1117" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ericksouzaaraujo48-stack&theme=github-compact&hide_border=true&color=F2C811&line=ff8a00&point=ffffff&bg_color=0d1117" width="100%" />
 
 </div>
 
